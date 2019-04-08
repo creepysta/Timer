@@ -4,7 +4,7 @@ Electron based timer which logs the user out when allotted time runs out
 ## How to run
 The driver.vbs file is the main file that runs every component
 * Clone the file in a directory
-* Simply navigate to Codigo/Codigo-win32-ia32/resources/app
+* Simply navigate to Codigo_Timer/Codigo-win32-ia32/resources/app
 * Double click driver.vbs to run the timer
 
 ## Perks
